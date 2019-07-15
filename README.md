@@ -8,7 +8,8 @@ A brag document with all the things I've done for this year, workwise and person
 3. Launch [Top Boeken Lijst](https://top-boeken.nl)
 
 # Goals for next year
-If it’s getting towards the end of the year, maybe start writing down what you think your goals for next year might be.
+
+1. Write a full featured epub reader, to learn how epub works
 
 # Projects
 
