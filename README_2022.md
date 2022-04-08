@@ -9,7 +9,7 @@ A brag document with all the things I've done for this year, workwise and person
 
 # Projects
 
-- Trading Journal. I created a trading cryptocurrency journal and am selling it on amazon. With 15 different covers to see what sells best.
+- [Trading Journal](https://www.amazon.com/dp/B09XBS7PPF). I created a trading cryptocurrency journal and am selling it on amazon. With 15 different covers to see what sells best.
 Did all of the designwork(content and covers), getting the book print ready and writing the product copy.
 
 ### Results: None yet.
